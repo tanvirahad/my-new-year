@@ -1,0 +1,62 @@
+.banner {
+    display: flex;
+    align-items: center;
+}
+
+.banner-img {
+    height: 700px;
+    width: 800px;
+    text-align: center;
+}
+
+
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    color: #151414;
+}
+
+.banner-description {
+    font-weight: 400;
+    font-size: 16px;
+
+    text-align: right;
+    color: #444343;
+}
+
+.btn-primary {
+    width: 160px;
+    height: 64px;
+    right: 1210px;
+    top: 578px;
+    color: white;
+    background-color: orangered;
+}
+
+/* failur-section */
+.failur-title {
+    Font style: Bold;
+    Font size: 40px;
+}
+h2{
+    text-align: center;
+}
+.plane-title{
+    font-size: 50px;
+}
+.plane-description{
+    font-size: 20px;
+}
+.plan{
+    display: flex;
+    gap:250px;
+}
+.btn-primary{
+    background-color: white;
+    color: orangered;
+}
+.failures{
+    background-color: #151414;
+    color: aliceblue;
+}
